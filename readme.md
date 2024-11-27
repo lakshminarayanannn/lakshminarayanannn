@@ -7,8 +7,8 @@
 - 💬 Ask me about: Distributed systems, modern application frameworks, deep learning models, and competitive programming.
 - 📧 Reach me via: Email at [ravi.l@northeastern.edu](mailto:ravi.l@northeastern.edu) or DM on LinkedIn.
 - 🌍 Fun fact: I can spin like crazy for hours without fainting!
-- 🕸️ Check out my GitHub: [GitHub](https://github.com/lakshminarayanannn)
+- 🕸️ Check out my GitHub: [Linkedin](https://www.linkedin.com/in/r-lakshminarayanan/)
 - 📄 View my resume here: [Resume](https://lakshminarayanannn.github.io/resume/).
 
 #### Find me on: 
-[LinkedIn](https://linkedin.com/in/r-lakshminarayanan/) | [GitHub](https://github.com/lakshminarayanannn)
+[LinkedIn](https://linkedin.com/in/r-lakshminarayanan/) | [GitHub](https://github.com/lakshminarayanannn) | [Codeforces](https://codeforces.com/profile/zapdospops) 

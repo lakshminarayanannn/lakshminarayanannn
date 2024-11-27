@@ -8,6 +8,6 @@
 - 📧 Reach me via: Email at [ravi.l@northeastern.edu](mailto:ravi.l@northeastern.edu) or DM on LinkedIn.
 - 🌍 Fun fact: I can spin like crazy for hours without fainting!
 - 🕸️ Check out my GitHub: [Linkedin](https://www.linkedin.com/in/r-lakshminarayanan/)
-- 📄 View my resume here: [Resume](https://lakshminarayanannn.github.io/resume/).
+- 📄 View my resume here: [Resume](https://lakshminarayanannn.github.io/resume/)
 
 #### Find me on: [LinkedIn](https://linkedin.com/in/r-lakshminarayanan/) | [GitHub](https://github.com/lakshminarayanannn) | [Codeforces](https://codeforces.com/profile/zapdospops) | [CodeChef](https://www.codechef.com/users/zapdospops) | [StopStalk](https://www.stopstalk.com/user/profile/zapdospops) 
